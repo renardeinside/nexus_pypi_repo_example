@@ -8,7 +8,7 @@ to internal repository in Nexus.
 
 # Steps 
 
-1. Install and run docker image with Nexus 3 repository:
+1. Install and run Docker image with Nexus 3 repository (user/pwd are on Docker page of Nexus 3):
     ```bash
     docker pull sonatype/nexus3
     docker run -d -p 8081:8081 --name nexus sonatype/nexus3

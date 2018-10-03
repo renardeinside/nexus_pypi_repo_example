@@ -4,3 +4,4 @@ dist/
 *.egg-info/
 example_package/__pycache__/
 *.pyc
+example_package/*.pyc
