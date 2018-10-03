@@ -46,7 +46,8 @@ to internal repository in Nexus.
     ```
 
 # Useful links
-- [Nexus 3 docker image](#https://hub.docker.com/r/sonatype/nexus3/)
-- [Instructions to work with Nexus PyPi](#https://help.sonatype.com/repomanager3/pypi-repositories)
-- [This perfect answer for troubleshooting](#https://support.sonatype.com/hc/en-us/articles/115000572308-Unable-to-install-PyPi-package)
-- [This SO thread about using pip install command](#https://stackoverflow.com/questions/41801306/nexus-repository-manager-as-pip-local-server-not-working-properly)
+
+- [Nexus 3 docker image](https://hub.docker.com/r/sonatype/nexus3/)
+- [Instructions to work with Nexus PyPi](https://help.sonatype.com/repomanager3/pypi-repositories)
+- [This perfect answer for troubleshooting](https://support.sonatype.com/hc/en-us/articles/115000572308-Unable-to-install-PyPi-package)
+- [This SO thread about using pip install command](https://stackoverflow.com/questions/41801306/nexus-repository-manager-as-pip-local-server-not-working-properly)
