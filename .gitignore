@@ -1,4 +1,6 @@
 .idea/
 build/
 dist/
-
+*.egg-info/
+example_package/__pycache__/
+*.pyc
